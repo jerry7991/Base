@@ -1,0 +1,1 @@
+awk '{print substr($0,4)}' .././NEW-1.tx
